@@ -1,0 +1,15 @@
+body{
+	background-color: grey;
+}
+h1{
+	background-color: yellow;
+	border-bottom: 1px solid black;
+	color: red;
+}
+p{
+	color: blue;
+	font-size: 25px;
+}
+button{
+    border-radius: 5px solid #fff;
+}
